@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.header {
+    width: 100%;
+    font-size: 2em;
+    color: black;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+  }
+
+p {
+  font-size: 50px;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+p1 {
+  font-size: 20px;
+  margin-top: 0;
+}
+  
+  .title {
+    float: left;
+  }
+  
+  .scores {
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif
+  }
