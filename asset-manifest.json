@@ -1,13 +1,13 @@
 {
-  "main.css": "/lewisgs22/clicky-game/static/css/main.30ac5cc0.chunk.css",
-  "main.js": "/lewisgs22/clicky-game/static/js/main.2492e4a0.chunk.js",
-  "main.js.map": "/lewisgs22/clicky-game/static/js/main.2492e4a0.chunk.js.map",
-  "static/js/1.9c49b165.chunk.js": "/lewisgs22/clicky-game/static/js/1.9c49b165.chunk.js",
-  "static/js/1.9c49b165.chunk.js.map": "/lewisgs22/clicky-game/static/js/1.9c49b165.chunk.js.map",
-  "runtime~main.js": "/lewisgs22/clicky-game/static/js/runtime~main.3b751c1d.js",
-  "runtime~main.js.map": "/lewisgs22/clicky-game/static/js/runtime~main.3b751c1d.js.map",
-  "static/css/main.30ac5cc0.chunk.css.map": "/lewisgs22/clicky-game/static/css/main.30ac5cc0.chunk.css.map",
-  "index.html": "/lewisgs22/clicky-game/index.html",
-  "precache-manifest.e03bbb716cd19ab9397e66e3ae45481b.js": "/lewisgs22/clicky-game/precache-manifest.e03bbb716cd19ab9397e66e3ae45481b.js",
-  "service-worker.js": "/lewisgs22/clicky-game/service-worker.js"
+  "main.css": "/clicky-game/static/css/main.30ac5cc0.chunk.css",
+  "main.js": "/clicky-game/static/js/main.2492e4a0.chunk.js",
+  "main.js.map": "/clicky-game/static/js/main.2492e4a0.chunk.js.map",
+  "static/js/1.9c49b165.chunk.js": "/clicky-game/static/js/1.9c49b165.chunk.js",
+  "static/js/1.9c49b165.chunk.js.map": "/clicky-game/static/js/1.9c49b165.chunk.js.map",
+  "runtime~main.js": "/clicky-game/static/js/runtime~main.6acb6692.js",
+  "runtime~main.js.map": "/clicky-game/static/js/runtime~main.6acb6692.js.map",
+  "static/css/main.30ac5cc0.chunk.css.map": "/clicky-game/static/css/main.30ac5cc0.chunk.css.map",
+  "index.html": "/clicky-game/index.html",
+  "precache-manifest.941ed3303665637cef09f736c127eee0.js": "/clicky-game/precache-manifest.941ed3303665637cef09f736c127eee0.js",
+  "service-worker.js": "/clicky-game/service-worker.js"
 }
